@@ -373,3 +373,29 @@ main {
     text-align: center;
     color: #222224
 }
+
+.subscribe-form {
+    display: flex;
+    height: 49px;
+}
+
+.email-area {
+    background: #e1e1e1;
+    border: none;
+    margin: 0;
+}
+
+button {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background: #F16D7F;
+    border: none;
+    margin: 0;
+}
